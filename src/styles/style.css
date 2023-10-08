@@ -1,3 +1,59 @@
 body {
   margin: 0;
 }
+
+/* Author: Zakir Ehmedov */
+.intro_primary-features p{
+  color: #000;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.intro_primary-content h1{
+  color: #000;
+  font-family: Roboto Slab;
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.intro_primary-content p{
+  color: #000;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.writer-box{
+  border-radius: 5px;
+  background: #1E4681;
+}
+
+.writer-box .writer-sentence{
+  color: #FFF;
+  font-family: Roboto Slab;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.writer-box .writer-name{
+  color: #FFF;
+  text-align: right;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+
+/* Author: Rahima Mahmudzade */
+
+/* Author: Sadiq Ibrahimli */
+
+/* Author: Ravi Hamidov */
+
+/* Author: Nermin Qasimli */
