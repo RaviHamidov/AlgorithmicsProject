@@ -54,6 +54,49 @@ body {
 
 /* Author: Sadiq Ibrahimli */
 
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Poppins&family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100&display=swap");
+
+.features_title {
+  color: #000;
+  font-family: "Roboto Slab";
+  font-size: 55px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.features_box .box_title {
+  color: #1e4681;
+  font-family: "Roboto";
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.features_box .box_paragraf {
+  color: #000;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.list_title {
+  color: #000;
+  font-family: "Roboto Slab";
+  font-size: 55px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.list_ul {
+  color: #000;
+  font-family: "Roboto";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+
 /* Author: Ravi Hamidov */
 
 /* Author: Nermin Qasimli */
