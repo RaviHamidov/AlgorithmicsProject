@@ -38,7 +38,7 @@ Users should be able to:
 
 ### ScreenShot
 
-![](./design/desktop-design.png)
+![](./src/img/desktopDesign.png)
 
 ### Links
 
