@@ -19,8 +19,22 @@ This is a solution to the [Algorithmics Modul One Final Project](https://www.fig
 
 Users should be able to:
 
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
+- All spaces, sizes and colors must be in accordance with the layout and requirements.
+- Slight differences with the layout are allowed in the size, spaces.
+- The page should display correctly in all modern browsers.
+- The page is adaptive and available in three main variants:
+    - Desktop - screen size more than 1280px;
+    - Tablet - screen size from 992px to 1279px;
+    - Smartphone - screen size from 320px to 991px.
+- Within each screen option, the "rubber" layout, that is, the width of the elements, changes proportionally to the screen width.
+- All interface decisions that are not considered in the layout are made by the programmer.
+- The project should be organized as follows:
+    - The HTML page uses an external style file in the project folder;
+    - HTML inline styling is not allowed;
+    - Images are placed in a separate folder.
+- The project must pass the Validator check.
+- Correct layout semantics must be observed.
+- The Page Code should be stored in the GitHub repository.
 
 ### ScreenShot
 
