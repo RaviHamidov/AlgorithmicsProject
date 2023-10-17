@@ -14,6 +14,10 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+section {
+  margin-bottom: 8rem;
+}
+
 /* Author: Zakir Ehmedov */
 .intro_primary-features p {
   color: #000;
@@ -145,12 +149,10 @@ h3 {
 /* Author: Nermin Qasimli */
 
 .first {
-  width: 100vw;
   height: 60vh;
   background: #9dc9c8;
 }
 .second {
-  width: 100vw;
   height: 40vh;
   background-color: black;
 }
