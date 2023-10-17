@@ -23,86 +23,73 @@ Users should be able to:
 - Slight differences with the layout are allowed in the size, spaces.
 - The page should display correctly in all modern browsers.
 - The page is adaptive and available in three main variants:
-    - Desktop - screen size more than 1280px;
-    - Tablet - screen size from 992px to 1279px;
-    - Smartphone - screen size from 320px to 991px.
+  - Desktop - screen size more than 1280px;
+  - Tablet - screen size from 992px to 1279px;
+  - Smartphone - screen size from 320px to 991px.
 - Within each screen option, the "rubber" layout, that is, the width of the elements, changes proportionally to the screen width.
 - All interface decisions that are not considered in the layout are made by the programmer.
 - The project should be organized as follows:
-    - The HTML page uses an external style file in the project folder;
-    - HTML inline styling is not allowed;
-    - Images are placed in a separate folder.
+  - The HTML page uses an external style file in the project folder;
+  - HTML inline styling is not allowed;
+  - Images are placed in a separate folder.
 - The project must pass the Validator check.
 - Correct layout semantics must be observed.
 - The Page Code should be stored in the GitHub repository.
 
 ### ScreenShot
 
-![](./design/desktop-design.png)
+![](./src/img/desktopDesign.png)
 
 ### Links
 
-- [Solution URL](https://github.com/RaviHamidov/FyloLandingPage)
-- [Live Site URL](https://ravihamidov.github.io/FyloLandingPage/)
+- [Solution URL](https://github.com/RaviHamidov/AlgorithmicsProject)
+- [Live Site URL](https://leafy-moxie-ac0327.netlify.app/)
 
-## My process
+## Our process
 
 ### Built with
 
 - Technologys
 
-  - HTML5
-  - CSS3
-  - SASS
-
-- Pattern Sass 7 in 1 pattern `Fixed it for MySelf`
+  - HTML
+  - CSS
+  - JS
+  - BootStrap 5
+  - FontAwesome
 
 ### Note for Better UnderStanding
 
 - All Project's code Organized I mean that Beautify, Readable, Understandable.
-
 - In this Project writen with BEM Methodology.
-
-- I use pure HTML & CSS only and write everything from scratch,
+- We only used pure HTML and CSS and a bit of Bootstrap for Resposivity, we write everything from scratch,
   Don't used utilize any no code tools like Wix, Wordpress etc.
+- We used Visual Studio Code while writing code and a bit of extensions like "Prettier", "Bootstrap 5 Quick Snippets", "Live Server" to write more productive code . . .
 
-- And i used CSS preprocessors `SASS`, By the way i provide a readme file with instructions for you how to run it.
-
-  - I used some extensions to compile the codes in `main.scss` into main.css, I mean all scss files are imported into `main.scss` file, so you can see all css codes in `main.css`.
-
-- My SASS Folder Structure (for this Project)
-  - css
-    - main.css
-  - sass
-    - base
-      - \_reset.scss
-      - \_typography.scss
-    - abstarcts
-      - \_colors.scss
-      - \_mixins.scss
-      - \_variables.scss
-    - layout
-      - \_borders.scss
-      - \_flex.scss
-      - \_grid.scss
-      - \_margins.scss
-      - \_paddings.scss
-      - \_positions.scss
-    - sections
-      - \_base.scss
-      - \_header.scss
-      - \_features.scss
-      - \_team.scss
-      - \_footer.scss
-    - main.scss
+- Our Folder Structure (for this Project)
+  - design
+    - figma.html
+  - src
+    - icon
+      - icon.html
+    - img
+      - imageOne.png
+      - imageTwo.png
+      - etc . . .
+    - style
+      - main.css
+  - index.html
+  - ReadMe.md
 
 ### Useful resources
 
 - As Soon As ;
 
-## Author
+## Authors
 
-- Website - [TheHamidov42](thehamidov42.herokuapp.com)
-- Frontend Mentor - [@RaviHamidov](https://www.frontendmentor.io/profile/@RaviHamidov)
-- Twitter - [@RaviHamidov](https://www.twitter.com/@RaviHamidov)
-- Instagram - [@RaviHamidov](https://www.instagram.com/ravihamidov/)
+| No  | Name / SurName                                      | Image                                                             | Role                 |
+| --- | --------------------------------------------------- | ----------------------------------------------------------------- | -------------------- |
+| 1   | [Ravi Hamidov](https://github.com/RaviHamidov)      | <img style="width:50px; height:50px;" src="./" alt="ProfilImage"> | Full Stack Developer |
+| 2   | [Rahima Mahmudzade](https://github.com/rahima18)    | <img style="width:50px; height:50px;" src="./" alt="ProfilImage"> | Front End Developer  |
+| 3   | [Zakir Memmedli](https://github.com/Zaiqer)         | <img style="width:50px; height:50px;" src="./" alt="ProfilImage"> | Front End Developer  |
+| 4   | [Nermin Qasimli](https://giteNb.com/narmin-gasimli) | <img style="width:50px; height:50px;" src="./" alt="ProfilImage"> | Front End Developer  |
+| 5   | [Sadiq Memmedov](https://github.com/Sadibra)        | <img style="width:50px; height:50px;" src="./" alt="ProfilImage"> | Front End Developer  |
