@@ -11,7 +11,7 @@ This is a solution to the [Algorithmics Modul One Final Project](https://www.fig
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
-- [Author](#author)
+- [Authors](#authors)
 
 ## Overview
 
