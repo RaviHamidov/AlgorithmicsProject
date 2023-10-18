@@ -15,7 +15,7 @@ body {
 }
 
 section {
-  margin-bottom: 8rem;
+  padding: 3.5rem;
 }
 
 /* Author: Zakir Ehmedov */
@@ -146,58 +146,70 @@ h3 {
   box-shadow: 1px 1px 15px 0px rgba(0, 0, 0, 0.25);
 }
 
-/* Author: Nermin Qasimli */
-
-.first {
-  height: 60vh;
-  background: #9dc9c8;
-}
-.second {
-  height: 40vh;
-  background-color: black;
-}
-h1 {
+.programs_title {
   color: #000;
+  font-family: "Roboto Slab";
   font-size: 55px;
   font-style: normal;
   font-weight: 700;
-  line-height: 101.385%; /* 55.762px */
 }
-.nemo {
+
+.programs_card img {
+  width: 100%;
+}
+
+.testimonials {
+  background: #efefef;
+}
+
+.testimonials_title {
   color: #000;
-  font-size: 25px;
+  font-family: "Roboto Slab";
+  font-size: 55px;
   font-style: normal;
-  font-weight: 400;
-  line-height: 101.385%; /* 25.346px */
+  font-weight: 700;
 }
-.demo {
+
+.testimonials_card {
+  border-radius: 30px;
+  background: #fff;
+  box-shadow: 1px 1px 20px 0px rgba(0, 0, 0, 0.25);
+}
+
+.testimonials_card-profile img {
+  width: 30%;
+}
+
+.testimonials_card-profile--content p {
   color: #000;
-  font-size: 80px;
+  font-family: Roboto Slab;
+  font-size: 30px;
   font-style: normal;
-  font-weight: 400;
-  line-height: 101.385%; /* 81.108px */
+  font-weight: 700;
+  line-height: 101.385%; /* 30.415px */
 }
-.logo1 {
-  width: 115px;
-  height: 68px;
-  flex-shrink: 0;
+
+.testimonials_card-profile--content i {
+  font-size: 31px;
 }
-.logo {
-  width: 34px;
-  height: 34px;
-  flex-shrink: 0;
+
+.fa-square-facebook {
+  color: #4267b2;
 }
-.foot {
-  display: flex;
-  color: #ffffff;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 101.385%; /* 18.249px */
+
+.fa-vk {
+  color: #4c75a3;
 }
-.text {
-  color: #ffffff;
+
+/* Author: Nermin Qasimli */
+
+/* contact */
+.contact {
+  background-color: #000;
 }
-.semo {
-  text-align: start;
+
+.contact_social i {
+  color: #fff;
+  font-size: 26px;
+  margin: 1.5rem 1rem 0 0;
 }
