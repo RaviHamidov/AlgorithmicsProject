@@ -92,4 +92,4 @@ Users should be able to:
 | 2   | [Rahima Mahmudzade](https://github.com/rahima18)    | <img style="width:50px; height:50px;" src="./src/img/rahimaPhoto.png" alt="ProfilImage"> | Front End Developer  |
 | 3   | [Zakir Memmedli](https://github.com/Zaiqer)         | <img style="width:50px; height:50px;" src=".\/src/img/zakirPhoto.png" alt="ProfilImage"> | Front End Developer  |
 | 4   | [Nermin Qasimli](https://github.com/narmin-gasimli) | <img style="width:auto; height:50px;" src="./src/img/zakirPhoto.png" alt="ProfilImage">  | Front End Developer  |
-| 5   | [Sadiq Memmedov](https://github.com/Sadibra)        | <img style="width:50px; height:50px;" src="./src/img/sadiqPhoto.jpg" alt="ProfilImage">  | Front End Developer  |
+| 5   | [Sadiq İbrahimli](https://github.com/Sadibra)        | <img style="width:50px; height:50px;" src="./src/img/sadiqPhoto.jpg" alt="ProfilImage">  | Front End Developer  |
