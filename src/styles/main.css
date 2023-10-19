@@ -202,14 +202,67 @@ h3 {
 }
 
 /* Author: Nermin Qasimli */
+/* Price  */
+.price {
+  background: #9dc9c8;
+}
 
-/* contact */
+.price h2 {
+  color: #000;
+  font-family: Roboto Slab;
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 101.385%; /* 32.443px */
+}
+
+.price_text h3 {
+  color: #000;
+  font-family: Roboto;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 101.385%; /* 46.637px */
+}
+
+.price_text span {
+  color: #000;
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 101.385%; /* 14.194px */
+}
+
+.price_content-primary h4 {
+  color: #000;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 101.385%; /* 14.194px */
+}
+
+.price_content-secondary h4 {
+  color: #000;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 101.385%; /* 14.194px */
+}
+/* Contact */
 .contact {
   background-color: #000;
+  color: #fff;
 }
 
 .contact_social i {
   color: #fff;
   font-size: 26px;
   margin: 1.5rem 1rem 0 0;
+}
+
+.contact_primary-bottom {
+  margin-top: 7rem;
 }
